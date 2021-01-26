@@ -1,0 +1,8 @@
+
+
+Better use Google colab (free) to open the ipynb document to run the code.
+
+The colab has already downloads the all packages except the yfinance.
+
+Also available in Github:
+https://github.com/fwu9/Rookie-Captain/blob/master/FE630_Project.ipynb
